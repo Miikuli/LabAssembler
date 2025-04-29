@@ -1,4 +1,4 @@
-LXI H, 0x0015	 
+LXI H, 0x000F	 
 MVI C, 10       
 SUB A      
 
